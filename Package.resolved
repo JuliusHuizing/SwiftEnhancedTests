@@ -1,6 +1,15 @@
 {
   "pins" : [
     {
+      "identity" : "swift-corelibs-xctest",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-corelibs-xctest",
+      "state" : {
+        "branch" : "main",
+        "revision" : "9302bff437c07e4e2043ac1092b87d467cb09733"
+      }
+    },
+    {
       "identity" : "swiftenhancedrandomness",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/JuliusHuizing/SwiftEnhancedRandomness",
