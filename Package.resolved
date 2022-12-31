@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftenhancedrandomness",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JuliusHuizing/SwiftEnhancedRandomness",
+      "state" : {
+        "revision" : "e2eea3359feb1b86149e26ca18e631a841f630f8",
+        "version" : "1.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
